@@ -1,2 +1,3 @@
-Wwindows/386
-Wwindows/amd64
+windows/386
+windows/amd64
+
